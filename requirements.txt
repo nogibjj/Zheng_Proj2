@@ -1,0 +1,7 @@
+pytest
+pylint
+pandas
+click
+ipython
+uvicorn[standard]
+kaggle
